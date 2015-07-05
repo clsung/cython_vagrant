@@ -4,4 +4,5 @@ base:
     - git
     - requirements
     - cython
+    - jupyter
     - cython_sample
